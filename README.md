@@ -5,7 +5,7 @@ Propine_Portfolio_Manager is a tool that enables crypto investors make transacti
 ## Initialization
 
 ```bash
-npm init
+npm install
 ```
 ## Run
 
