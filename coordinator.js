@@ -116,27 +116,6 @@ const sleep =(delay)=>{
         },delay)
     }) 
 }
-// push_to_group("2022-10-04")
-// .then((bool)=>{ bool ? set_is_grouped():_})
-// .catch((err)=>err?console.log("Error!, record not found\nCheck date"):_)
-// 
-// 
-// 
-// 
-//sleep(1000)
-//.then((bool)=>{bool? time_to_obj() : console.log("Empty again")})
-// sleep(2000)
-// .then((bool)=>{bool?get_token_portfolio_on_date("2022-10-04", "btc")
-// .then(({Token, Amount})=>{
-    // console.log(Token, Amount)
-    // console.log(group)
-    // console.log(isGrouped)
-    // 
-// 
-// }).catch((bool)=>{bool?console.log("Oshey Baba mi"):_}):_})
-
-
-
 
 module.exports = {
                     set_latest_portfolio_all_token,
